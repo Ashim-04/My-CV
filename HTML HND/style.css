@@ -1,0 +1,81 @@
+body{
+  background-color: black;
+}
+
+h1, h2{
+  font-family: Trebuchet MS;
+  color: #071C35;
+  margin-left: 10px;
+}
+
+h3{
+  font-family: Trebuchet MS;
+  color: #fff;
+  font-size: 25px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+table{
+  background-color: white;
+}
+
+.title{
+  font-family: Georgia;
+  padding-bottom: 5px;
+  margin-left: 10px;
+}
+
+
+.rightAlignedCell{
+  font-family: Georgia;
+  text-align: right;
+  padding-left: 100px;
+  padding-right: 10px;
+  padding-top: 15px;
+  line-height: 1.5;
+  color: 0, 57, 90;
+}
+
+.profilepicCell{
+  background-color: #071C35;
+}
+
+.profilepic{
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+
+.profileSub{
+  font-family: Trebuchet MS;
+  color: #fff;
+  font-size: 15px;
+  vertical-align: top;
+  margin-left: 5px;
+  margin-top: 5px;
+  padding-right: 10px;
+}
+
+.underline{
+  border-bottom: solid white;
+  width: 480px;
+}
+
+.underlineBlue{
+  border-bottom: 2px solid #071C35;
+  border-width: 3px;
+  width: 200px;
+}
+
+.colContents{
+  margin-left: 10px;
+  font-family: Georgia;
+}
